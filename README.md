@@ -23,7 +23,5 @@ A simple web application to predict house prices based on various features using
 - NumPy / Pandas
 - pickle (for saving and loading the trained model)
 
----
 
-## Project Structure
 
